@@ -27,7 +27,7 @@
 ────────────────────────────────────────────
 
 Официальный проект: TojScript
-Создатель: Andarobi Azimi
+Создатель: Ahmad Azimov
 Страна происхождения: Tajikistan 🇹🇯
 
 "Programming in the language of the future."
